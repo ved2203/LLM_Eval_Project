@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "text": "Sam Altman is the CEO of OpenAI.",
+    "score": 0.92
+  },
+  {
+    "id": "2",
+    "text": "OpenAI builds advanced AI models including GPT.",
+    "score": 0.75
+  }
+]
